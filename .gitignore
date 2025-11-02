@@ -10,6 +10,9 @@ Models/
 *.keras
 *.h5
 
+#Ignore OpenCV Screenshots (seriously, they're cringe material)
+CV_Screenshots/
+
 # Ignore Python cache
 __pycache__/
 *.pyc
