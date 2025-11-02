@@ -1,0 +1,21 @@
+touch .gitignore
+```
+# Ignore dataset (private images)
+Friend_Images/
+
+#Ignore model files (too big)
+Models/
+
+# Ignore trained models (too large for git)
+*.keras
+*.h5
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Mac files
+.DS_Store
