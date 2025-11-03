@@ -12,6 +12,7 @@ Models/
 
 #Ignore OpenCV Screenshots (seriously, they're cringe material)
 CV_Screenshots/
+CV_PrePrep_Faces/
 
 # Ignore Python cache
 __pycache__/
